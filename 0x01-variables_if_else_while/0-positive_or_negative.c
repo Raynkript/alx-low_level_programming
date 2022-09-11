@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - positive or negative
  *
@@ -26,4 +27,3 @@ int main(void)
 	}
 	return (0);
 }
-
