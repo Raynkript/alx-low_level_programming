@@ -1,7 +1,6 @@
-#!/bin/bash
-#include &lt;stdlib.h&gt;
-#include &lt;time.h&gt;
-#include &lt;stdio.h&gt
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
  * main -Prints random number to variable
  *
